@@ -1,16 +1,16 @@
-### Hi there 👋
-
-<!--
-**SurajTaradale/SurajTaradale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Who Am I</h3>
+<span>Suraj Taradale</span><br>
+<span>Full Stack Developer, Working on tussom Product and Andriod project   using Andriod, JavaScript, SQL, Perl , etc..
+A Full Stack Development enthusiast , Passionate about learning new technologies and exploring new ways os software solutions.
+</span>
+<h3>How to reach me</h3>
+<ul>
+<li>LinkedIn - https://www.linkedin.com/in/suraj-taradale-ab124b197/</li>
+  <li>Twitter - @SurajTaradale</li>
+</ul>
+<h3>My hobbies</h3>
+<ul>
+  <li>Travelling</li>
+  <li>Drawing</li>
+  <li>Learning and Exploring OpenSource World</li>
+</ul>
