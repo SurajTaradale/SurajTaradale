@@ -11,7 +11,7 @@
 </span>
 <h3>How to reach me</h3>
 <ul>
-<li>LinkedIn - https://www.linkedin.com/in/suraj-taradale-ab124b197/</li>
+<li>LinkedIn - https://www.linkedin.com/in/surajtaradale</li>
   <li>Twitter - @SurajTaradale</li>
 </ul>
 <h3>My hobbies</h3>
