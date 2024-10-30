@@ -1,5 +1,5 @@
 <div>
-    <h1>Hi there! 👋 I'm Suraj Dadasab Taradale</h1>
+    <h1>Hi there! 👋 I'm Suraj Taradale</h1>
 </div>
 
 <h2>🚀 About Me</h2>
